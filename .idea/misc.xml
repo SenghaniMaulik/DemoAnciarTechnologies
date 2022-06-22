@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Personal/Projects/Zignuts Projects/DemoProjects/DemoAnciarTechnologies/app/src/main/res/drawable/ic_error_placeholder.xml" value="0.2475" />
+        <entry key="..\:/Personal/Projects/Zignuts Projects/DemoProjects/DemoAnciarTechnologies/app/src/main/res/layout/activity_main.xml" value="0.290625" />
+        <entry key="..\:/Personal/Projects/Zignuts Projects/DemoProjects/DemoAnciarTechnologies/app/src/main/res/layout/item_with_images.xml" value="0.35052083333333334" />
+        <entry key="..\:/Personal/Projects/Zignuts Projects/DemoProjects/DemoAnciarTechnologies/app/src/main/res/layout/item_with_two_images.xml" value="0.35052083333333334" />
+        <entry key="..\:/Personal/Projects/Zignuts Projects/DemoProjects/DemoAnciarTechnologies/app/src/main/res/layout/recycler_view_header_item.xml" value="0.35052083333333334" />
+        <entry key="..\:/Personal/Projects/Zignuts Projects/DemoProjects/DemoAnciarTechnologies/app/src/main/res/layout/recycler_view_item_with_images.xml" value="0.35052083333333334" />
+        <entry key="..\:/Personal/Projects/Zignuts Projects/DemoProjects/DemoAnciarTechnologies/app/src/main/res/layout/recyclerview_item_with_two_images.xml" value="0.35052083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
